@@ -3,11 +3,9 @@ layout: page
 title: 💜💜💜
 ---
 
-## Hello Traveler!
+## All is well!
+The Ascension 5D Facebook group is still active __[here](https://www.facebook.com/groups/181122809372617/)__
 
-You may have noticed our group disappeared 😮 !
+Bookmark this page to find our new group if Facebook ever shuts us down 😄
 
-[You can find our new home here!](https://www.facebook.com/groups/181122809372617/)
-
-
-😘
+👽👽👽👽
