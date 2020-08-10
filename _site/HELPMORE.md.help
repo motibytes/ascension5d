@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+
+  <title>Test markdown</title>
+
+  <meta name="author" content="" />
+
+  
+  <meta name="description" content="Each post also has a subtitle">
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Ascension 5th Dimension 💜 - " href="http://localhost:4000/feed.xml" />
+
+  
+
+  
+
+  
+
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Test markdown" />
+  
+
+   
+  <meta property="og:description" content="Each post also has a subtitle">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="http://localhost:4000/HELPMORE.md.help" />
+  <link rel="canonical" href="http://localhost:4000/HELPMORE.md.help" />
+  
+
+  
+  <meta property="og:image" content="http://localhost:4000/img/2.png" />
+  
+
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Test markdown" />
+  
+
+  
+  <meta name="twitter:description" content="Each post also has a subtitle">
+  
+
+  
+  <meta name="twitter:image" content="http://localhost:4000/img/2.png" />
+  
+
+  
+
+  
+
+</head>
+
+
+  <body>
+
+    
+
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button><a class="navbar-brand" href="http://localhost:4000/">Ascension 5th Dimension 💜</a></div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+          <li><a href="/blog">posts</a></li></ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="http://localhost:4000/">
+	      <img class="avatar-img" src="/img/2.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="post-heading">
+          <h1>Test markdown</h1>
+		  
+		    
+			<h2 class="post-subheading">Each post also has a subtitle</h2>
+			
+		  
+
+		  
+		  <span class="post-meta">Posted on </span>
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+      
+        
+        
+        
+
+        <div id="header-gh-btns">
+          
+            
+              
+                  <iframe src="https://ghbtns.com/github-btn.html?user=daattali&repo=beautiful-jekyll&type=star&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                
+            
+              
+                  <iframe src="https://ghbtns.com/github-btn.html?user=daattali&repo=beautiful-jekyll&type=fork&count=true" frameborder="0" scrolling="0" width="120px" height="20px"></iframe>
+                
+            
+              
+                  <iframe src="https://ghbtns.com/github-btn.html?user=daattali&type=follow&count=true" frameborder="0" scrolling="0" width="220px" height="20px"></iframe>
+              
+            
+          
+        </div>
+      
+
+      <article role="main" class="blog-post">
+        You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+**Here is some bold text**
+
+## Here is a secondary heading
+
+Here's a useless table:
+
+| Number | Next number | Previous number |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
+
+How about a yummy crepe?
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+
+It can also be centered!
+
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .center-block :}
+
+Here's a code chunk:
+
+~~~
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+~~~
+
+And here is the same code with syntax highlighting:
+
+```javascript
+var foo = function(x) {
+  return(x + 5);
+}
+foo(3)
+```
+
+And here is the same code yet again but with line numbers:
+
+<figure class="highlight"><pre><code class="language-javascript" data-lang="javascript"><table class="rouge-table"><tbody><tr><td class="gutter gl"><pre class="lineno">1
+2
+3
+4
+</pre></td><td class="code"><pre><span class="kd">var</span> <span class="nx">foo</span> <span class="o">=</span> <span class="kd">function</span><span class="p">(</span><span class="nx">x</span><span class="p">)</span> <span class="p">{</span>
+  <span class="k">return</span><span class="p">(</span><span class="nx">x</span> <span class="o">+</span> <span class="mi">5</span><span class="p">);</span>
+<span class="p">}</span>
+<span class="nx">foo</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span></pre></td></tr></tbody></table></code></pre></figure>
+
+## Boxes
+You can add notification, warning and error boxes like this:
+
+### Notification
+
+{: .box-note}
+**Note:** This is a notification box.
+
+### Warning
+
+{: .box-warning}
+**Warning:** This is a warning box.
+
+### Error
+
+{: .box-error}
+**Error:** This is an error box.
+
+      </article>
+
+      
+        <div class="blog-tags">
+          Tags:
+          
+          
+            <a href="/tags#test">test</a>
+          
+          
+        </div>
+      
+
+      
+
+      <ul class="pager blog-pager">
+        
+        
+      </ul>
+
+      
+        <div class="disqus-comments">
+          
+        </div>
+          
+        <div class="staticman-comments">
+          
+
+        </div>
+        <div class="justcomments-comments">
+          
+        </div>
+      
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"></ul>
+      <p class="copyright text-muted">
+      
+      &nbsp;&bull;&nbsp;
+      2020
+
+      
+
+      
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+          <p class="theme-by text-muted">
+
+          </p>
+    <p class="theme-by text-muted">
+        Created by
+        <a href="https://jamesbyt.es">James Bytes</a> | 
+      Theme by
+      <a href="https://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+          document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script src="/js/main.js"></script>
+    
+  
+
+
+
+
+
+
+  
+  </body>
+</html>
